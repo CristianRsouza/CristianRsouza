@@ -1,5 +1,4 @@
-<div style="display:flex; aling-items:center;justify-content:center;">
-  ## Olá! Eu sou o Cristian Rodrigues 🖐️
+ <p align:centerOlá! Eu sou o Cristian Rodrigues 🖐️</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cris.rodsz/)
 
@@ -20,4 +19,3 @@
   
 Dedicado e Focado em tudo do meu dia a dia
 
-</div>
