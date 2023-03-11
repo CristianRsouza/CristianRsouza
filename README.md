@@ -15,8 +15,10 @@
 
 ![CristianRsouza GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianRsouza&show_icons=true&theme=radical)
 
+Dedicado e Focado em tudo do meu dia a dia
+  
+  
   Feito Com o ❤ e javascript
     
-Dedicado e Focado em tudo do meu dia a dia
   </div>
 
