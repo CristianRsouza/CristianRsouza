@@ -3,7 +3,7 @@
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cris.rodsz/)
-[![Twitter](https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.instagram.com/cris.rodsz/)
+  
 ## Tecnologias
 
 <div style="display: inline_block" align="center">
