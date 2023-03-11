@@ -14,5 +14,7 @@
 
 ![CristianRsouza GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianRsouza&show_icons=true&theme=radical)
 
+![snake.gif](https://github.com/CristianRsouza/CristianRsouza/blob/output/github-contribution-grid-snake.svg)
+
 Dedicado e Focado em tudo do meu dia a dia
 
