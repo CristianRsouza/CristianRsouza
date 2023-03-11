@@ -1,7 +1,6 @@
 
-<p align="center"><a href="https://github.com/CristianRsouza"><img width="80%" alt="Olá! Eu sou o Cristian Rodrigues 🖐️" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/CristianRsouza">Olá! Eu sou o Cristian Rodrigues 🖐️</a></p>
 
-<br />
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cris.rodsz/)
 
 ## Tecnologias
