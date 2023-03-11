@@ -1,4 +1,5 @@
-## Olá! Eu sou o Cristian Rodrigues 🖐️
+<div style="display:flex; aling-items:center;justify-content:center;">
+  ## Olá! Eu sou o Cristian Rodrigues 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cris.rodsz/)
 
@@ -15,6 +16,8 @@
 ![CristianRsouza GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianRsouza&show_icons=true&theme=radical)
 
    ![Snake animation](https://github.com/CristianRsouza/CristianRsouza/blob/output/github-contribution-grid-snake.svg)
-   
+  
+  
 Dedicado e Focado em tudo do meu dia a dia
 
+</div>
