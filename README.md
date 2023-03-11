@@ -12,7 +12,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-![CristianRsouza GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![CristianRsouza GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianRsouza&show_icons=true&theme=radical)
 
 Dedicado e Focado em tudo do meu dia a dia
 
