@@ -1,5 +1,6 @@
 <div style="display: inline_block" align="center">
 <h1 align="center">Olá! Eu sou o Cristian Rodrigues 🖐️<h1>
+<h1 align="center">Hello! i am Cristian Rodrigues 🖐️<h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cris.rodsz/)
 
