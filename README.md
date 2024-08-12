@@ -1,6 +1,6 @@
 ## Hello.
 
-> My name is Cristiane. I'm a full-stack developer who started programming about 4 years ago, I started because I needed to find a way to fulfill my dream of creating my own business, so I started and now I'm focused on developing my coding skills.
+> My name is Cristian. I'm a full-stack developer who started programming about 4 years ago, I started because I needed to find a way to fulfill my dream of creating my own business, so I started and now I'm focused on developing my coding skills.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
