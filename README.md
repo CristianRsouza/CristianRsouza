@@ -1,6 +1,8 @@
-## Hello.
+## 🖐 Hello.
 
 > My name is Cristian. I'm a full-stack developer who started programming about 4 years ago, I started because I needed to find a way to fulfill my dream of creating my own business, so I started and now I'm focused on developing my coding skills.
+
+## 🐱‍🚀 Tecnologies
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -12,3 +14,5 @@
 ![expressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![CristianRsouza GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianRsouza&show_icons=true&theme=transparent)
