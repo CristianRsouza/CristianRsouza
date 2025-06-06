@@ -1,30 +1,20 @@
 
-<h1 align="center">✨ Cristian R.S. ✨</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Idade-17%20anos-8a2be2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-Fullstack%20Developer-6a0dad?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Aprendizado%20contínuo-%E2%9C%A8-purple?style=for-the-badge" />
-</p>
 
----
+## 🖐 Hello.
 
-### 💻 Sobre mim
+> My name is Cristian. I'm a full-stack developer who started programming about 4 years ago, I started because I needed to find a way to fulfill my dream of creating my own business, so I started and now I'm focused on developing my coding skills.
 
-Sou **Cristian R.S.**, tenho 17 anos e sou apaixonado por programação desde muito cedo. Sempre busco sair da zona de conforto, explorando novas linguagens, ferramentas e tecnologias para criar soluções úteis e desafiadoras.
+## 🐱‍🚀 Tecnologies
 
-Atualmente, venho desenvolvendo projetos nas áreas de:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![expressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- Desenvolvimento **web** (front e back-end)
-- Criação de **APIs modernas**
-- Iniciação em **Machine Learning** e **Visão Computacional** 🤖🧠
-
----
-
-### 🛠️ Stacks que uso
-
-```js
-Front-end:   React.js · Vue.js · Next.js
-Back-end:    Node.js · Java (Spring Boot) · Python
-Databases:   PostgreSQL · SQL
-Extras:      TypeScript · JavaScript · HTML5 · CSS3
-```
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&username=CristianRsouza" height="150" alt="stats graph"  />
