@@ -1,4 +1,3 @@
-![Profile banner style="widith:100%;"](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazAya3V4MGRqajAzbHFwbHlzeDJmM2t6NWEwcm9jMW5oMmR0OXBndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif)
 
 ## 🖐 Hello.
 
