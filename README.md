@@ -9,14 +9,14 @@
 
 > Initializing Developer Profile...
 ✔️ Name: Cristian R.S.
-✔️ Age: 17
+✔️ Age : 17
 ✔️ Role: Fullstack Developer
 ✔️ Location: BR 🌎
 
 > Loading Tech Stack...
-🧠 Languages: TypeScript | JavaScipt| Python | C | C++ | Java
+🧠 Languages:  TypeScript | JavaScipt| Python | C | C++ | Java
 🧩 Frameworks: React.js | Vue.js | Next.js | Spring Boot | Jest.js | Express.js
-💾 Databases: SQL | PostgreSQL | Prisma
+💾 Databases:  SQL | PostgreSQL | Prisma
 
 > Running Passion Protocols...
 🎵 Music Boost Activated
