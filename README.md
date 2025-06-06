@@ -15,7 +15,7 @@
 
 > Loading Tech Stack...
 🧠 Languages:
-TypeScript | Python | C | C++ | Java
+TypeScript | JavaScipt| Python | C | C++ | Java
 🧩 Frameworks:
 React.js | Vue.js | Next.js | Spring Boot | Jest.js | Express.js
 💾 Databases:
