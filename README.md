@@ -1,3 +1,5 @@
+![Profile banner]([https://i.imgur.com/VNP2tTx.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpixel-artists&psig=AOvVaw0sVEVbXC1Q4POoWJ6rEM8v&ust=1749258836600000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCID3h4_P240DFQAAAAAdAAAAABAU))
+
 ## 🖐 Hello.
 
 > My name is Cristian. I'm a full-stack developer who started programming about 4 years ago, I started because I needed to find a way to fulfill my dream of creating my own business, so I started and now I'm focused on developing my coding skills.
