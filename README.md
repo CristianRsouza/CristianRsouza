@@ -5,29 +5,40 @@
 > My name is Cristian. I'm a full-stack developer who started programming about 4 years ago, I started because I needed to find a way to fulfill my dream of creating my own business, so I started and now I'm focused on developing my coding skills.
 
 
-```js
-const cristian = {
-  nome: "Cristian R.S.",
-  idade: 17,
-  area: ["Web", "APIs", "Machine Learning"],
-  stacks: {
-    frontend: ["React", "Vue", "Next.js"],
-    backend: ["Node.js", "Spring Boot", "Python"],
-    linguagens: ["JavaScript", "TypeScript", "Java", "Python"],
-    bancoDeDados: ["PostgreSQL", "SQL"]
-  },
-  projetos: [
-    {
-      nome: "Reconhecimento de Libras com MediaPipe e OpenCV",
-      foco: "Acessibilidade e Visão Computacional"
-    }
-  ],
-  hobbies: ["🎧 ouvir música", "🚀 aprender coisas novas"],
-  buscando: "Desafios reais, bons cafés e colaboração",
-  github: "https://github.com/CristianRsouza",
-  linkedin: "https://linkedin.com/in/cristianrsouza"
-}
-```
+```bash
+> whoami
+👤 Cristian R.S. | Desenvolvedor Fullstack | 17 anos
+
+> areas_de_interesse --lista
+🧠 Desenvolvimento Web
+⚙️ APIs RESTful
+🤖 Machine Learning (Visão Computacional com MediaPipe + OpenCV)
+
+> tecnologias_usadas --front --back --etc
+🧪 Front-end: React.js, Vue.js, Next.js
+🔧 Back-end: Node.js, Spring Boot, Python
+🛢️ Banco de Dados: PostgreSQL, SQL
+🎨 Outros: TypeScript, HTML5, CSS3, JavaScript
+
+> projetos_em_destaque
+📌 Reconhecimento de gestos em Libras usando IA
+
+> hobbies
+🎧 Música para foco
+🚀 Aprender e construir algo novo
+🤝 Colaborar com devs incríveis
+
+> conecte-se
+🔗 GitHub: [CristianRsouza](https://github.com/CristianRsouza)
+🔗 LinkedIn: [linkedin.com/in/cristianrsouza](https://www.linkedin.com/in/cristianrsouza)
+
+> motivacao
+“Ficar na zona de conforto nunca foi uma opção.”
+
+> status
+💡 Sempre pronto para novos desafios.
+
+> _ 
 
 
 <div align="center">
