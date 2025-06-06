@@ -25,7 +25,8 @@
 
 > Connections:
 🔗 GitHub: [CristianRsouza](https://github.com/CristianRsouza)
-🔗 LinkedIn: [cristianrsouza](https://linkedin.com/in/cristianrsouza)
+🔗 LinkedIn: [cristianrsouza](https://www.linkedin.com/in/cristian-rodrigues-548ab4250/)
+🔗 Instagram: [cristianrsouza](https://www.instagram.com/cris.rodsz/)
 
 > Awaiting next command...
 _
