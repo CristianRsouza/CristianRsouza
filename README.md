@@ -1,4 +1,4 @@
-![Profile banner]([https://i.imgur.com/VNP2tTx.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpixel-artists&psig=AOvVaw0sVEVbXC1Q4POoWJ6rEM8v&ust=1749258836600000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCID3h4_P240DFQAAAAAdAAAAABAU))
+![Profile banner](https://66.media.tumblr.com/ee5169a677d71323105a5210404f474d/tumblr_ptp22tbWHk1tgo74ho1_1280.gif)
 
 ## 🖐 Hello.
 
