@@ -14,10 +14,12 @@
 ✔️ Location: BR 🌎
 
 > Loading Tech Stack...
-🧩 Front-end: React.js | Vue.js | Next.js
-⚙️ Back-end: Spring Boot | Jest.js
-💾 Databases: PostgreSQL | SQL
-🧠 Languages: TypeScript | Python | C | C++ | Java
+🧠 Languages:
+TypeScript | Python | C | C++ | Java
+🧩 Frameworks:
+React.js | Vue.js | Next.js | Spring Boot | Jest.js | Express.js
+💾 Databases:
+SQL | PostgreSQL | Prisma
 
 > Running Passion Protocols...
 🎵 Music Boost Activated
@@ -27,8 +29,6 @@
 > Connections:
 🔗 GitHub: [CristianRsouza](https://github.com/CristianRsouza)
 🔗 LinkedIn: [cristianrsouza](https://linkedin.com/in/cristianrsouza)
-
-🔮 Status: “Fora da zona de conforto desde o primeiro ‘console.log’...”
 
 > Awaiting next command...
 _
