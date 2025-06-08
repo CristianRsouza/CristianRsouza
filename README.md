@@ -35,7 +35,7 @@ _
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=CristianRsouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=react&disable_animations=false&locale=en&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api?username=CristianRsouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&disable_animations=false&locale=en&hide_border=false" 
     alt="stats graph" 
     style="transform: scale(1.2); transform-origin: center; height: 150px;" 
   />
