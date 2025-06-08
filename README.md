@@ -40,7 +40,7 @@ _
     style="transform: scale(1.2); transform-origin: center; height: 150px;" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianRsouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=reactt&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianRsouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false" 
     alt="languages graph" 
     style="transform: scale(1.2); transform-origin: center; height: 150px;" 
   />
