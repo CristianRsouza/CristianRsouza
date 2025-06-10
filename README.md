@@ -33,12 +33,6 @@ _
 
 ```
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=CristianRsouza&theme=nord&show_icons=true&hide_border=true&count_private=true" 
-    style="margin: 10px;"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianRsouza&theme=nord&show_icons=true&hide_border=true&layout=compact" 
-    style=" margin: 10px;"
-  />
+![CristianRsouza's Stats](https://github-readme-stats.vercel.app/api?username=CristianRsouza&theme=nord&show_icons=true&hide_border=true&count_private=true)
+![CristianRsouza's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianRsouza&theme=nord&show_icons=true&hide_border=true&layout=compact)
 </p>
