@@ -34,14 +34,7 @@ _
 ```
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=CristianRsouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=react&&disable_animations=false&locale=en&hide_border=false" 
-    alt="stats graph" 
-    style="transform: scale(1.2); transform-origin: center; height: 150px; background: "fffff"; 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianRsouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false" 
-    alt="languages graph" 
-    style="transform: scale(1.2); transform-origin: center; height: 150px;" 
-  />
+![CristianRsouza's Stats](https://github-readme-stats.vercel.app/api?username=CristianRsouza&theme=nord&show_icons=true&hide_border=true&count_private=true)
+![CristianRsouza's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CristianRsouza&theme=nord&hide_border=true)
+![CristianRsouza's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianRsouza&theme=nord&show_icons=true&hide_border=true&layout=compact)
 </div>
