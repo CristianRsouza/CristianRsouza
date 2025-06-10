@@ -32,16 +32,17 @@
 _
 
 ```
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=CristianRsouza&theme=nord&show_icons=true&hide_border=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CristianRsouza&theme=nord&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianRsouza&theme=nord&show_icons=true&hide_border=true />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=CristianRsouza&theme=nord&show_icons=true&hide_border=true&count_private=true" 
+    style="transform: scale(0.9); margin: 10px;"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=CristianRsouza&theme=nord&hide_border=true" 
+    style="transform: scale(0.9); margin: 10px;"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianRsouza&theme=nord&show_icons=true&hide_border=true&layout=compact" 
+    style="transform: scale(0.9); margin: 10px;"
+  />
+</p>
