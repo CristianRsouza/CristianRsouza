@@ -34,6 +34,6 @@ _
 ```
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=CristianRsouza&theme=nord&show_icons=true&hide_border=true&count_private=true" />
-  <img width="400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianRsouza&theme=nord&show_icons=true&hide_border=true&layout=compact">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianRsouza&theme=nord&show_icons=true&hide_border=true&layout=compact">
 </p>
 
