@@ -5,7 +5,7 @@
 > My name is Cristian. I'm a full-stack developer who started programming about 4 years ago, I started because I needed to find a way to fulfill my dream of creating my own business, so I started and now I'm focused on developing my coding skills.
 
 ```bash
-🟣 SYSTEM BOOTING... [Cristian R.S.]
+🟣 SYSTEM BOOTING... [Cristian R.S]
 
 > Initializing Developer Profile...
 ✔️ Name: Cristian R.S.
