@@ -4,7 +4,7 @@ Fullstack developer passionate about building scalable solutions and solving com
 
 ## About Me
 
-I'm a 17-year-old developer from Brazil with a passion for coding and entrepreneurship. My journey started with a dream to build my own business, which led me to discover my love for programming. Today, I focus on mastering fullstack development while contributing to open-source projects.
+I'm a 18-year-old developer from Brazil with a passion for coding and entrepreneurship. My journey started with a dream to build my own business, which led me to discover my love for programming. Today, I focus on mastering fullstack development while contributing to open-source projects.
 
 🎵 Music enthusiast | 🧠 Always learning | 🚀 Problem solver
 
